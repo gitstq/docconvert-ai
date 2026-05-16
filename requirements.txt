@@ -1,0 +1,12 @@
+# DocConvert-AI - Zero Dependencies
+# This project is designed to work without external dependencies
+# Python 3.8+ standard library only
+
+# Optional dependencies for enhanced functionality (not required)
+# Uncomment if you need advanced PDF support:
+# PyPDF2>=3.0.0
+# pdfplumber>=0.9.0
+
+# Uncomment if you need advanced image OCR:
+# pytesseract>=0.3.10
+# Pillow>=10.0.0
